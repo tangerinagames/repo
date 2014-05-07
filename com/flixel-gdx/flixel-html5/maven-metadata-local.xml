@@ -3,10 +3,11 @@
   <groupId>com.flixel-gdx</groupId>
   <artifactId>flixel-html5</artifactId>
   <versioning>
-    <release>2.5.6</release>
+    <release>2.5.6-gdx1.0-snapshot</release>
     <versions>
       <version>2.5.6</version>
+      <version>2.5.6-gdx1.0-snapshot</version>
     </versions>
-    <lastUpdated>20140507153441</lastUpdated>
+    <lastUpdated>20140507154920</lastUpdated>
   </versioning>
 </metadata>
