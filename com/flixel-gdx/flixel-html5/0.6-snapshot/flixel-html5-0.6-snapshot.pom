@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.flixel-gdx</groupId>
-  <artifactId>flixel-core</artifactId>
-  <version>2.5.6-gdx1.0-snapshot</version>
+  <artifactId>flixel-html5</artifactId>
+  <version>0.6-snapshot</version>
   <description>POM was created from install:install-file</description>
 </project>
